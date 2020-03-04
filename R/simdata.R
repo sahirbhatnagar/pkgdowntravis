@@ -9,6 +9,7 @@
 #' @examples
 #' dat <- mvrnormR(n = 100, p = 10, rho = 0.8)
 #' heatmap(cor(dat))
+#'
 #' @export
 mvrnormR <- function(n, p, rho) {
 
