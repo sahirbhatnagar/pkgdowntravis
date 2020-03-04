@@ -2,6 +2,7 @@
 # pkgdowntravis
 
 <!-- badges: start -->
+[![Travis build status](https://travis-ci.org/sahirbhatnagar/pkgdowntravis.svg?branch=master)](https://travis-ci.org/sahirbhatnagar/pkgdowntravis)
 <!-- badges: end -->
 
 The goal of pkgdowntravis is to ...
