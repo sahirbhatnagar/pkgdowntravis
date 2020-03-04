@@ -1,0 +1,11 @@
+url: http://sahirbhatnagar.com/casebase
+
+template:
+  params:
+    bootswatch: cosmo
+
+authors:
+  Sahir Bhatnagar:
+
+development:
+  mode: release
